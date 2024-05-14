@@ -1,0 +1,19 @@
+{
+  "name": "test-710",
+  "version": "1.0.0",
+  "description": "test package for ticket 710",
+  "main": "index.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:expectrox/npm-test.git"
+  },
+  "keywords": [
+    "test",
+    "710"
+  ],
+  "author": "expectrox",
+  "license": "ISC"
+}
