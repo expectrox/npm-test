@@ -1,6 +1,6 @@
 {
   "name": "test-710",
-  "version": "1.0.0",
+  "version": "3.0.0",
   "description": "test package for ticket 710 - https://www.npmjs.com/package/test-710",
   "main": "index.js",
   "scripts": {
